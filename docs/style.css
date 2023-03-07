@@ -1,0 +1,21 @@
+body {
+  background-color: #f7f7f7;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  border-bottom: 2px solid #ccc;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+main {
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+}
